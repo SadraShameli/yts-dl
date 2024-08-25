@@ -15,7 +15,7 @@ with open("LICENSE", "r") as file:
 
 setup(
     name=Variables.ProjectName,
-    version="0.0.1",
+    version="0.0.2",
     description="Download from YouTube & Spotify",
     install_requires=[
         "colorlog",
